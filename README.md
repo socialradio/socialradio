@@ -36,6 +36,5 @@ Als Server nutze ich zum einen Xampp oder Lampp je nachdem.
 
 Aktuelle To-Do's:
 
-contentlion von https://www.a-coding-project.de/ratgeber/php/beispiele/eigenes-cms-erstellen
-auf die neueren Webstandarts übersetzen und damit versuchen dem minimal verstaubten Projekt wieder glanz zu verleien, da es noch unter
-PHP5 und MySQL läuft.
+contentlion von https://www.a-coding-project.de auf die neueren Webstandarts übersetzen und damit versuchen dem minimal verstaubten
+Projekt wieder glanz zu verleien, da es noch unter PHP5 und MySQL läuft.

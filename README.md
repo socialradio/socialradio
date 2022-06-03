@@ -10,11 +10,14 @@ Seinerzeit lief da noch alles über ASP XHTML XML CSS JS Tabellenlayouts.
 
 In den Jahren bis jetzt kamen dort noch PHP MYSQL(i) SQLITE & PDO bei.
 
-Seit 2017 unterstütze ich Webradios bei der Gestaltung der webseiten und den vorwiegend den zusätzlichen Plugins
-wie Wunschbox, Chats, kleinen Spielchen zur Interaktion. Daher auch der Name socialradio. (Die Webseite socialrado.net
-befindet sich aktuell im bearbeitungszustand, da auch dies mal überholt werden müsste, denn dort werden zukünftig meine
-Scripte Veröffentlicht. Dies aber mit einem schnuckeligen CMS namens contentlion, bisher nutzte ich WordPress muss bzw.
-möchte mich aber von WordPress Joomla Contenido Typesetter und Co. distanzieren).
+Seit 2017 unterstütze ich Webradios vorwiegend bei den zusätzlichen Plugins wie Wunschbox, Chats, kleinen Spielchen
+zur Interaktion. Daher auch der Name socialradio. 
+
+(Die Webseite socialrado.net befindet sich aktuell im bearbeitungszustand, da auch dies mal überholt werden müsste,
+denn dort werden zukünftig meine Scripte Veröffentlicht. Dies aber mit einem schnuckeligen CMS namens contentlion,
+bisher nutzte ich WordPress muss bzw. will mich aber von WordPress Joomla Contenido Typesetter und den anderen großen
+Baukästen distanzieren, da Sie trotz des Versprechens der 100%igen Anpassbarkeit einem mehr Steine in den Weg schmeißen
+als zu helfen).
 
 Meine lieblings CMS:
 1. Bludit - Ein prima Flat-File CMS das ohne Datenbank auskommt, da alle Inhalte in JSON Dateien gespeichert werden.

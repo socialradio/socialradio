@@ -37,4 +37,4 @@ Als Server nutze ich zum einen Xampp oder Lampp je nachdem.
 Aktuelle To-Do's:
 
 contentlion von https://www.a-coding-project.de auf die neueren Webstandarts übersetzen und damit versuchen dem minimal verstaubten
-Projekt wieder glanz zu verleien, da es noch unter PHP5 und MySQL läuft.
+Projekt wieder glanz zu verleien, da es noch unter PHP5 und den Anfängen von MySQLi läuft.
